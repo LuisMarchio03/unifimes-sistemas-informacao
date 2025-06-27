@@ -1,0 +1,72 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#000000"/>
+  <rect x="40" y="40" width="1200" height="640" rx="16" fill="#0F0F0F"/>
+  
+  <!-- Header -->
+  <rect x="40" y="40" width="1200" height="80" rx="16" fill="#1A1A1A"/>
+  <circle cx="100" cy="80" r="24" fill="#FF4500"/>
+  <text x="140" y="92" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white">Plataforma Acadêmica</text>
+  
+  <!-- Search bar -->
+  <rect x="550" y="60" width="400" height="40" rx="20" fill="#252525"/>
+  <text x="580" y="86" font-family="Arial, sans-serif" font-size="16" fill="#777777">Pesquisar...</text>
+  
+  <!-- Profile icon -->
+  <circle cx="1180" cy="80" r="24" fill="#333333"/>
+  <circle cx="1180" cy="80" r="12" fill="#555555"/>
+  <path d="M1168 96 C1168 88, 1180 82, 1180 82 C1180 82, 1192 88, 1192 96" stroke="#555555" stroke-width="4" fill="none"/>
+  
+  <!-- Sidebar navigation -->
+  <rect x="40" y="120" width="240" height="560" fill="#1A1A1A" rx="8"/>
+  
+  <!-- Main content -->
+  <rect x="320" y="160" width="880" height="120" rx="8" fill="#1F1F1F"/>
+  <rect x="340" y="180" width="640" height="24" rx="4" fill="#FF4500"/>
+  <rect x="340" y="220" width="400" height="16" rx="4" fill="#333333"/>
+  <rect x="340" y="250" width="300" height="16" rx="4" fill="#333333"/>
+  
+  <!-- Projects grid -->
+  <rect x="320" y="320" width="280" height="160" rx="8" fill="#1F1F1F"/>
+  <rect x="340" y="340" width="140" height="16" rx="4" fill="#444444"/>
+  <rect x="340" y="370" width="240" height="12" rx="4" fill="#333333"/>
+  <rect x="340" y="390" width="200" height="12" rx="4" fill="#333333"/>
+  <rect x="340" y="440" width="80" height="24" rx="12" fill="#FF4500"/>
+  
+  <rect x="620" y="320" width="280" height="160" rx="8" fill="#1F1F1F"/>
+  <rect x="640" y="340" width="140" height="16" rx="4" fill="#444444"/>
+  <rect x="640" y="370" width="240" height="12" rx="4" fill="#333333"/>
+  <rect x="640" y="390" width="200" height="12" rx="4" fill="#333333"/>
+  <rect x="640" y="440" width="80" height="24" rx="12" fill="#FF4500"/>
+  
+  <rect x="920" y="320" width="280" height="160" rx="8" fill="#1F1F1F"/>
+  <rect x="940" y="340" width="140" height="16" rx="4" fill="#444444"/>
+  <rect x="940" y="370" width="240" height="12" rx="4" fill="#333333"/>
+  <rect x="940" y="390" width="200" height="12" rx="4" fill="#333333"/>
+  <rect x="940" y="440" width="80" height="24" rx="12" fill="#FF4500"/>
+  
+  <!-- Calendar section -->
+  <rect x="320" y="500" width="880" height="160" rx="8" fill="#1F1F1F"/>
+  <rect x="340" y="520" width="180" height="20" rx="4" fill="#444444"/>
+  
+  <rect x="340" y="560" width="200" height="30" rx="4" fill="#252525"/>
+  <rect x="560" y="560" width="200" height="30" rx="4" fill="#252525"/>
+  <rect x="780" y="560" width="200" height="30" rx="4" fill="#252525"/>
+  
+  <rect x="340" y="600" width="200" height="30" rx="4" fill="#252525"/>
+  <rect x="560" y="600" width="200" height="30" rx="4" fill="#252525"/>
+  <circle cx="880" cy="615" r="15" fill="#FF4500"/>
+  
+  <!-- Navigation items -->
+  <rect x="60" y="160" width="200" height="40" rx="4" fill="#252525"/>
+  <rect x="60" y="220" width="200" height="40" rx="4" fill="#1A1A1A"/>
+  <rect x="60" y="280" width="200" height="40" rx="4" fill="#1A1A1A"/>
+  <rect x="60" y="340" width="200" height="40" rx="4" fill="#1A1A1A"/>
+  <rect x="60" y="400" width="200" height="40" rx="4" fill="#1A1A1A"/>
+  <rect x="60" y="460" width="200" height="40" rx="4" fill="#1A1A1A"/>
+  
+  <!-- Mobile navigation indicator -->
+  <rect x="340" y="680" width="840" height="1" fill="#333333"/>
+  <circle cx="560" cy="700" r="16" fill="#1F1F1F" stroke="#333333" stroke-width="1"/>
+  <circle cx="640" cy="700" r="16" fill="#FF4500"/>
+  <circle cx="720" cy="700" r="16" fill="#1F1F1F" stroke="#333333" stroke-width="1"/>
+</svg>

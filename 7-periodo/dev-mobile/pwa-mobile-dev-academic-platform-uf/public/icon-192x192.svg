@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="48" fill="#000000"/>
+  <circle cx="96" cy="96" r="76" stroke="#FF4500" stroke-width="8"/>
+  <text x="96" y="116" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FF4500" text-anchor="middle">UF</text>
+</svg>
