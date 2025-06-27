@@ -39,9 +39,47 @@ Este repositório organiza todos os projetos, anotações e trabalhos realizados
 
 ### TCC
 
-- Projeto Aloy (IA pessoal)
-- Arquitetura distribuída
-- Microserviços + NLP + IOT
+Aplicação prática dos conceitos de arquitetura moderna com foco em sistemas distribuídos e machine learning para diagnósticos médicos. O projeto compara diferentes abordagens arquiteturais em um cenário real de alta complexidade computacional.
+
+
+### 🧠 Componentes Principais
+
+- **Arquitetura Distribuída**
+  - Serviços isolados (API, ML, Armazenamento)
+  - Comunicação via HTTP e mensageria (RabbitMQ)
+- **Monolito Modular**
+  - Backend unificado com módulos desacoplados
+  - Comparação de manutenibilidade e deploy
+- **Microserviços**
+  - Serviços autônomos com CI/CD independente
+  - Gateway reverso e orquestração leve
+- **Machine Learning**
+  - Detecção de sinais de Parkinson via MRI
+  - Modelos: SVM, RandomForest, CNN
+  - Inference via API dedicada
+
+### 🛠️ Tecnologias
+
+- Node.js / GoLang / Python (FastAPI)
+- Scikit-learn / TensorFlow
+- Docker / Docker Compose / Kubernetes
+- PostgreSQL / MongoDB
+- RabbitMQ
+- Prometheus + Grafana
+- GitHub Actions
+
+### 📊 Métricas Avaliadas
+
+| Métrica                  | Monolito           | Microserviços       |
+|--------------------------|--------------------|----------------------|
+| Tempo de Deploy          | ------ | ------ |
+| Escalabilidade           | ------ | ------ |
+| Performance              | ------ | ------ |
+| Observabilidade          | ------ | ------ |
+| TTFB / Inferência (ms)   | ------ | ------ |
+
+> Resultados detalhados disponíveis em `------`
+
 
 ## 📘 Tópicos Envolvidos
 
