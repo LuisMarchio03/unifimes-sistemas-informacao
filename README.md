@@ -45,11 +45,13 @@ Este repositório organiza todos os projetos, anotações e trabalhos realizados
 
 ## 📘 Tópicos Envolvidos
 
-- C, C++, GoLang
+- Java
+- C, GoLang, Python
+- Delphi
 - Node.js, React
 - Flutter & FlutterFlow
-- MongoDB, PostgreSQL, SQLite
-- Docker, RabbitMQ, GitOps
+- SqlServer, PostgreSQL
+- Docker, GitOps
 
 ## ✅ Status
 
