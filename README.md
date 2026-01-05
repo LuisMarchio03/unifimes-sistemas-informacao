@@ -27,15 +27,18 @@ Este repositório organiza todos os projetos, anotações e trabalhos realizados
 
 - Lógica de Programação
 - Algoritmos
+- Estrutura da dados
 - Fundamentos de Computação
 - Sistemas Operacionais
 
 ### 5º 6º 7º 8º Período
 
 - Redes de Computadores
+- Computação distribuída
+- Ciência de dados
 - Estagio
 - Projetos praticos
-- DevOps
+- Ministrar palestras de DevOps
 
 ### TCC
 
